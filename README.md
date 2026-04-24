@@ -61,6 +61,8 @@
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
   &emsp;
 
+  <a href="#"><img alt="colab" src="https://img.shields.io/badge/colab%20-%23F37626.svg?logo=colab&logoColor=white"></a>
+
   &emsp;
 </p>
 
