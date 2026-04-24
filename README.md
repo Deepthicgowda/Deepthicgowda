@@ -45,6 +45,8 @@
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
+  <a href="https://www.mongodb.com/"><img alt="MONGODB" src="https://img.shields.io/badge/MONGODB-%2300f.svg?style=flat&llogo=MONGODB&logoColor=white"></a>
+  &emsp;
 
  ### 👉 Software & Tools
  
